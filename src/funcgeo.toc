@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Basic Operations}{6}{0}{2}
+\beamer@sectionintoc {3}{Laws}{17}{0}{3}
+\beamer@sectionintoc {4}{Square Limit}{21}{0}{4}
+\beamer@sectionintoc {5}{Implementation}{32}{0}{5}

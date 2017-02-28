@@ -1,0 +1,9 @@
+\frametitle{Laws}
+
+  \begin{equation*}
+  rot(beside(p, q)) = above(rot(q), rot(p))
+  \end{equation*}
+
+  \begin{equation*}
+  flip(beside(p, q)) = beside(flip(q), flip(p))
+  \end{equation*}
